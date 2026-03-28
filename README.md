@@ -1,4 +1,4 @@
-# CRM-System-Showcase-Public
+# CRM-System-Showcase
 Customer Relationship Management
 
 # Customer Relationship Management (CRM) System
